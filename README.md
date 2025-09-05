@@ -29,14 +29,19 @@ The goal is to predict a person's **weight** based on their **height** using a s
    git clone https://github.com/janvi2108/height-weight-prediction.git
    cd height-weight-prediction
 2. Create & activate a virtual environment:
+
 python -m venv venv
 venv\Scripts\activate     # for Windows
 source venv/bin/activate  # for Mac/Linux
+
 3. Install dependencies:
+
 python -m venv venv
 venv\Scripts\activate     # for Windows
 source venv/bin/activate  # for Mac/Linux
+
 4. Run the project:
+
 python linear_regression.py
 
 📊 Results
