@@ -23,9 +23,6 @@ The goal is to predict a person's **weight** based on their **height** using a s
   - statsmodels
 
 ---
-
----
-
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
@@ -43,20 +40,9 @@ source venv/bin/activate  # for Mac/Linux
 python linear_regression.py
 
 📊 Results
-
 Built a linear regression model using scikit-learn and statsmodels.
-
 Achieved good accuracy for height → weight prediction.
-
 Visualized regression line over scatter plot of data.
 
-📊 Results
-
-Built a linear regression model using scikit-learn and statsmodels.
-
-Achieved good accuracy for height → weight prediction.
-
-Visualized regression line over scatter plot of data.
 Author
-
-👩‍💻 Janvi Gaba
+ Janvi Gaba
